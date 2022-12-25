@@ -21,13 +21,7 @@
   <a href="https://www.tensorflow.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="tensorflow" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="max-width: 100%;"> </a>
    <a href="https://www.python.org" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="tensorflow" width="40" height="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="max-width: 100%;"> </a> 
 </p>
-<p>
-<h3>Blogs </h3>
-  <a href="https://medium.com/@shahsadiq208" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="medium" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://dev.to/sadiqshah786" rel="nofollow"> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="40" height="40" style="max-width: 100%;"> </a>
- 
 
-</p>
 
 
   
